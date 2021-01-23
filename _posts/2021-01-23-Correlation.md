@@ -2,6 +2,7 @@
 layout: post
 title: "Correlation"
 author: "Christos_Chalitsios"
+thumbnail-img: /assets/img/corheatMap.png
 date: "2021-01-23"
 output: 
   html_document:
