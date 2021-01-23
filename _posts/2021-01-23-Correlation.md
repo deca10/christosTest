@@ -66,7 +66,7 @@ theme(axis.title.x = element_blank(),
 print(ggheatmap)
 ```
 
-<img src="Correlation_files/figure-html/unnamed-chunk-2-1.png" width="672" style="display: block; margin: auto;" />
+<img src="/assets/img/corheatMap.png" width="672" style="display: block; margin: auto;" />
  
  Now that we estimated the strength of the linear associations between our variables let's how they will depict in a scatterplot.The fit of the data can be visually represented with a scatterplot. Using that plot, we can generally assess the relationship between the variables and determine whether they are correlated or not.
 
@@ -91,7 +91,7 @@ grid.arrange(g1,g2,g3,ncol=2)
 ## `geom_smooth()` using formula 'y ~ x'
 ```
 
-<img src="Correlation_files/figure-html/unnamed-chunk-3-1.png" width="672" style="display: block; margin: auto;" />
+<img src="/assets/img/scatterplots.png" width="672" style="display: block; margin: auto;" />
 
 For those who want to calculate the *_r_* coefficient by hand the workflow is:
 n order to calculate the correlation coefficient using the formula above, you must undertake the following steps:
