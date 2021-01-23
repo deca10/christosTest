@@ -26,7 +26,7 @@ Where:
 - y<sub>i</sub> – the values of the y-variable in a sample
 - ȳ – the mean of the values of the y-variable
 
-Lets turn to R to dive in some examples using a dataset with some biomechanical of the vertrebral column found in [UCI machine learning repository](http://archive.ics.uci.edu/ml/datasets/vertebral+column)
+Lets turn to R to dive in some examples using a dataset with some biomechanical features of the vertebral column found in [UCI machine learning repository](http://archive.ics.uci.edu/ml/datasets/vertebral+column)
 
 
 
