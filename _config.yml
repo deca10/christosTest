@@ -16,8 +16,9 @@ author: Christos Chalitsios
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - R-bloggers: "https://www.r-bloggers.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - R & mocap: "https://link.springer.com/article/10.1007/s00530-019-00633-9"
 
 # --- Logo --- #
 
@@ -42,10 +43,7 @@ social-network-links:
   facebook: https://www.facebook.com/logan.ch.1/
   #github: daattali
   twitter: https://twitter.com/cchalitsios
-  #patreon: DeanAttali
-  #youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
+  linkedin: christos-chalitsios
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
