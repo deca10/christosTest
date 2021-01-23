@@ -9,9 +9,6 @@ output:
 ---
 
 
-
-## Correlation
-
 A correlation analysis provides the necessary information on the strength and direction of the linear relationship between **x** and **y**. For assessing the correlation between numeric variable the Pearson correlation coefficient _r_, is used, and can take values between -1 and 1. Zero resides in the middle of this interval and stands for no relationship. The further away from zero the stronger the relationship. The sign of _r_ indicative of the relationship between the variables. If _r_ is positive, then as one variable increases, the other also behaves in the same way (increase). The opposite is true is the sign is negative.
 
 The correlation coefficient can be found using the following formula:
