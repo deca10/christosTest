@@ -93,7 +93,7 @@ grid.arrange(g1,g2,g3,ncol=2)
  <img src="/assets/img/scatterplots.png" width="672" style="display: block; margin: auto;" />
 </p>
 
-For those who want to calculate the *_r_* coefficient by hand the workflow is:
+For those who want to calculate the *r* coefficient by hand the workflow is:
 n order to calculate the correlation coefficient using the formula above, you must undertake the following steps:
 
 1. Find a data sample with  values for **x** and **y** variables.
