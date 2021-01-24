@@ -40,10 +40,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "chalitsios@gmail.com"
-  facebook: https://www.facebook.com/logan.ch.1/
+  facebook: logan.ch.1/
   #github: daattali
-  twitter: https://twitter.com/cchalitsios
-  linkedin: christos-chalitsios
+  twitter: cchalitsios
+  linkedin: christos-chalitsios-14977560
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
